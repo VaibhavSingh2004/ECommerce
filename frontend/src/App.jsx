@@ -8,7 +8,7 @@ import Product from './Pages/Product'
 import Cart from './Pages/Cart'
 import LoginSignUp from './Pages/LoginSignUp.jsx'
 import Footer from './Components/Footer/Footer'
-import Shopcategory from './Pages/Shopcategory.jsx'
+import Shopcategory from "./Pages/ShopCategory";
 import men_banner from './Components/Assets/banner_mens.png'
 import women_banner from './Components/Assets/banner_women.png'
 import kids_banner from './Components/Assets/banner_kids.png'
